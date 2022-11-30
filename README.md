@@ -1,2 +1,2 @@
 # github-api-demo
-Demo repo for using GitHub API helper in Observable
+Example Repo used to test different data imports by the [GitHub API in Observable](https://observablehq.com/@periscopic/github-api-in-observable).
